@@ -1,0 +1,11 @@
+import math
+class Calculator:
+    def add(self,a,b):
+        return a+b
+    def sub(self,a,b):
+        return a-b
+    def mul(self,a,b):
+        return a*b
+    def root(self,a):
+        return math.sqrt(a)
+
